@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mail@ferdivdb.be**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ferdivdbe/](https://www.linkedin.com/in/ferdivdbe/)
-
 - ⚡ Fun fact **I like Ping Pong and ducks**
 
 <h3 align="left">Connect with me:</h3>
