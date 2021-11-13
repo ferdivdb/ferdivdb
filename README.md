@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferdinand</h1>
 <h3 align="center">A passionate student from Brussels</h3>
 
+##
+
 - 🔭 I’m currently working on [Projet d’Informatique Breakthrough](https://github.com/ferdivdb/Breakthrough)
 
 - 🌱 I’m currently learning **Everythings**
