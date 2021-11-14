@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Projet d’Informatique Breakthrough](https://github.com/ferdivdb/Breakthrough)
 
-- 🌱 I’m currently learning **Everythings**
+- 🌱 I’m currently learning https://www.ulb.be/fr/programme/ba-info
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
