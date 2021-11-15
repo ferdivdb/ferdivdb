@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning https://www.ulb.be/fr/programme/ba-info
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available at [ferdivdb.be](http://ferdivdb.be)
 
 - 📝 I regularly write articles on [Soon](Soon)
 
